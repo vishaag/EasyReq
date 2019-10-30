@@ -20,9 +20,9 @@ The outcome of the system, is that the system would share screenshots of the fil
 
 | Full Name | Student ID | Contribution | Email |
 | :------------ |:---------------:|:------------ |:---------------:| 
-| Aniket Mohan Arasanipalai | A0198481N | Project idea, UiPath RPA Bot, Project Report, Video | e0402053@u.nus.edu |
-| Siddhant Naveria | A0198485H | Project idea, UiPath RPA Bot, Deploying to UiPath Orchestrator, Python script to make API calls to orchestrator, User Guide | guo_xiang@u.nus.edu |
-| Akshay Sachdeva | A0198532W | Project idea, UiPath RPA Bot, Project Report, Video | e0402073@u.nus.edu |
+| Aniket Mohan Arasanipalai | A0198481N | Project idea, UiPath RPA Bot, Project Architecture, Project Report, Video Content | e0402053@u.nus.edu |
+| Siddhant Naveria | A0198485H | Project idea, Deploying to UiPath Orchestrator, Python script to make API calls to orchestrator, User Guide | guo_xiang@u.nus.edu |
+| Akshay Sachdeva | A0198532W | Project idea, UiPath RPA Bot, Project Report, Project Architecture, Video Presentation | e0402073@u.nus.edu |
 | Vishaag Suriyanarayanan | A0198504X | Project idea, Chatbot - Dialogflow NLP Agent Creation, Dialogflow Fulfilment Backend (python - flask), Facebook Messenger Integration, User Guide | vishaag@u.nus.edu |
 
 
