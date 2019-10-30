@@ -33,4 +33,4 @@ The outcome of the system, is that the system would share screenshots of the fil
 ---
 ## SECTION 5 : USER GUIDE
 
-[View Intelliship User Guide](https://github.com/vishaag/EasyReq/blob/master/Project_Report_final1.pdf)
+[View EasyReq Installation & User Guide](https://github.com/vishaag/EasyReq/blob/master/Project_Report_final1.pdf)
