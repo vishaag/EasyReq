@@ -1,0 +1,2 @@
+# EasyReq
+Automate everything!
