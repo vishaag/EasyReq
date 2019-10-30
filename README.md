@@ -29,6 +29,8 @@ The outcome of the system, is that the system would share screenshots of the fil
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 [Demo Video](https://github.com/vishaag/EasyReq/blob/master/EasyReq%20Presentation.mp4)
+[![Demo Video](https://github.com/vishaag/intelliship/blob/master/Miscelleneous/Capture.PNG)](https://youtu.be/taU9_02-69o)
+
 
 ---
 ## SECTION 5 : USER GUIDE
