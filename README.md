@@ -7,20 +7,23 @@
 
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY
-In the past few years, e-commerce and online shopping have become more and more popular. In some markets, it even becomes an essential part of daily lives. A lot of small and medium size merchants have emerged to capture the business opportunities. While setting up an online store is easier now because of the mature platforms like Woocommerce and Shopify, there are still many challenges for small and medium sized online merchants. One of them is pack and shipping.<br>
-Packing and shipping is particularly hard to handle because different merchants will have different types, sizes and combinations of products. Packing problem refers to how to pack the ordered goods in the basket in order to minimize volume, which in turns minimizes shipping cost. Shipping problem refers how to find the cheapest available option for customer to minimize their shipping cost and thus induces more sales.<br>
-In this project we interviewed several online merchants who sell internationally. We understand their current challenges and designed this smart shipping options generator and cost calculator.<br>
-We will use DHL, UPS, Fedex and SF Express as example. We will configure their shipping rates into the system, where our rules-engine will find the optimal shipping rates based on the weight and destinations. We also leverage third party library for the packing optimization problem in order to minimize shipping cost.
+With many students and working employees coming in to Singapore, either for studies or work related environments, housing has become the first priority for all of them. While either moving in to a house for the first time, or moving houses after a period of time, there exists a lot of forms that need to be manually filled which may become exhausting for the customer.
+
+Based on robotic process and intelligent process automation concepts, our group of four members, brainstormed and decided to build a system that can easily automate this process of form filling when searching/relocation of houses, based on the customer details. The entire system would be a chatbot based system where a customer can interact with an intelligent chatbot, which would assist him/her to fill up various forms that are required, and moreover, organize key appointments that maybe required in certain cases.
+
+We began by getting a good understanding of the overall key processes of the proposed solution. Next, we determined the areas which needed targeting that we agreed should be implemented into business processes. We also made sure we analysed the processes with our improvements and see how these improvements were handled with test cases to validate our assumptions. 
+
+The outcome of the system, is that the system would share screenshots of the filled forms to the user for his consent, post which, based on the approval the respective forms can be ‘submitted’.
 
 ---
 ## SECTION 3 : PROJECT CONTRIBUTION
 
 | Full Name | Student ID | Contribution | Email |
 | :------------ |:---------------:|:------------ |:---------------:| 
-| Chan Kan Hei | A0198512Y | Project idea, Case Study Documentation, System Flow Design, Project Report, Testing | e0402053@u.nus.edu |
-| GuoXiang | A0198533U | Project idea, Implementation of Drools Rules Engine and Decision Table, Testing | guo_xiang@u.nus.edu |
-| Srikar Namburu | A0198490N |Project idea, Data scraping for Decision table, Frontend UI (React), Testing | e0402031@u.nus.edu |
-| Vishaag Suriyanarayanan | A0198504X | Project idea, Frontend UI (React), Backend Server (Node.js), User Guide, Testing | e0402045@u.nus.edu |
+| Aniket Mohan Arasanipalai | A0198481N | Project idea, UiPath RPA Bot, Project Report, Video | e0402053@u.nus.edu |
+| Siddhant Naveria | A0198485H | Project idea, UiPath RPA Bot, Deploying to UiPath Orchestrator, Python script to make API calls to orchestrator, User Guide | guo_xiang@u.nus.edu |
+| Akshay Sachdeva | A0198532W | Project idea, UiPath RPA Bot, Project Report, Video | e0402073@u.nus.edu |
+| Vishaag Suriyanarayanan | A0198504X | Project idea, Chatbot - Dialogflow NLP Agent Creation, Dialogflow Fulfilment Backend (python - flask), Facebook Messenger Integration | vishaag@u.nus.edu |
 
 
 ---
