@@ -21,23 +21,16 @@ The outcome of the system, is that the system would share screenshots of the fil
 | Full Name | Student ID | Contribution | Email |
 | :------------ |:---------------:|:------------ |:---------------:| 
 | Aniket Mohan Arasanipalai | A0198481N | Project idea, UiPath RPA Bot, Project Architecture, Project Report, Video Content | e0402022@u.nus.edu |
-| Siddhant Naveria | A0198485H | Project idea, Deploying to UiPath Orchestrator, Python script to make API calls to orchestrator, User Guide | guo_xiang@u.nus.edu |
+| Siddhant Naveria | A0198485H | Project idea, Deploying to UiPath Orchestrator, Python script to make API calls to orchestrator, User Guide | sidhantnaveria@u.nus.edu |
 | Akshay Sachdeva | A0198532W | Project idea, UiPath RPA Bot, Project Report, Project Architecture, Video Presentation | e0402073@u.nus.edu |
 | Vishaag Suriyanarayanan | A0198504X | Project idea, Chatbot - Dialogflow NLP Agent Creation, Dialogflow Fulfilment Backend (python - flask), Facebook Messenger Integration, User Guide | vishaag@u.nus.edu |
 
 
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-[Demo Video](https://youtu.be/DLyNaq7eSQc)
-[![Demo Video](https://github.com/vishaag/intelliship/blob/master/Miscelleneous/Capture.PNG)](https://youtu.be/DLyNaq7eSQc)
+[Demo Video](https://github.com/vishaag/EasyReq/blob/master/EasyReq%20Presentation.mp4)
 
 ---
 ## SECTION 5 : USER GUIDE
 
-[View Intelliship User Guide](https://github.com/vishaag/intelliship/blob/master/User%20Guide/IntellishipUserGuide.pdf)
-
-## SECTION 6 : PROJECT REPORT / PAPER
-
-[View Project Report](https://github.com/vishaag/intelliship/blob/master/Project%20Report/Project%20Report.pdf)
-
- 
+[View EasyReq Installation & User Guide](https://github.com/vishaag/EasyReq/blob/master/Project_Report_final1.pdf)
